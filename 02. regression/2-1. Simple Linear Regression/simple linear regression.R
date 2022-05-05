@@ -35,7 +35,6 @@ ggplot() +
   xlab('years of experience')+
   ylab('Salary')
 
-
 # Visualising the test set results
 # install.packages('ggplot2')
 library(ggplot2)

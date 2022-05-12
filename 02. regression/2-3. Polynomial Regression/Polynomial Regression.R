@@ -1,4 +1,4 @@
-# Data Preprocessing Template
+# Polynomial Regression
 
 # Importing the dataset
 #dataset = dataset[2:3](means only keep the 2,3 columns )
